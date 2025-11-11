@@ -92,7 +92,8 @@ var NAVTREE =
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ]
+        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Variables", "namespacemembers_vars.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -101,11 +102,10 @@ var NAVTREE =
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
         [ "Typedefs", "functions_type.html", null ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", null ]
+        [ "Enumerations", "functions_enum.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -113,6 +113,9 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -121,10 +124,9 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"AuthPacket_8cpp.html",
-"classBasalType.html#a6899be7659ea5677d7f6ec478007eb83a558661cff122e91ad97a6408bc920fea",
-"classPumpBleComm.html#a124528cc0266f5da2225c35a2546aec8",
-"structHmiService_1_1PassKeyDisplayTask.html#abe3d00ac7b52b8c0d7b2086389b803b6"
+"BLEComm_8cpp.html",
+"Tunes_8h.html#adfbdbc36baee852981842d731e0ccf6daf4912cae458ad19ebb8828d9883e7bf7",
+"dir_a8f641299cfea9f7461c2df1141b7786.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
