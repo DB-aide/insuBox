@@ -1,8 +1,6 @@
 var hierarchy =
 [
-    [ "advertizingData", null, [
-      [ "BLEComm", "classBLEComm.html", null ]
-    ] ],
+    [ "BLEComm", "classBLEComm.html", null ],
     [ "BleConnection", "structBleConnection.html", null ],
     [ "BolusProgressUpdate", "structBolusProgressUpdate.html", null ],
     [ "HmiService::BolusProgressUpdateTask", "structHmiService_1_1BolusProgressUpdateTask.html", null ],
@@ -12,18 +10,9 @@ var hierarchy =
     [ "BtPassKeyConfirmResponse", "structBtPassKeyConfirmResponse.html", null ],
     [ "Buzzer", "classBuzzer.html", null ],
     [ "BLEComm::CompareBtAddr", "structBLEComm_1_1CompareBtAddr.html", null ],
-    [ "connAuthCallbacks", null, [
-      [ "BLEComm", "classBLEComm.html", null ]
-    ] ],
-    [ "connAuthInfoCallbacks", null, [
-      [ "BLEComm", "classBLEComm.html", null ]
-    ] ],
-    [ "connCallbacks", null, [
-      [ "BLEComm", "classBLEComm.html", null ]
-    ] ],
     [ "ControlService", "classControlService.html", null ],
     [ "EventDispatcher", "classEventDispatcher.html", null ],
-    [ "EventID< T >", "structEventID.html", null ],
+    [ "EventID&lt; T &gt;", "structEventID.html", null ],
     [ "IBLECallback", "classIBLECallback.html", null ],
     [ "ICallbackHolder", "classICallbackHolder.html", [
       [ "CallbackHolder< Event >", "classCallbackHolder.html", null ]
@@ -51,9 +40,12 @@ var hierarchy =
     ] ],
     [ "Motor", "classMotor.html", null ],
     [ "HmiService::PassKeyDisplayTask", "structHmiService_1_1PassKeyDisplayTask.html", null ],
+    [ "PosSensor", "classPosSensor.html", null ],
+    [ "PrimeRequest", "structPrimeRequest.html", null ],
     [ "PumpAnnunciationStatus", "structPumpAnnunciationStatus.html", null ],
     [ "PumpStatus", "structPumpStatus.html", null ],
     [ "RetractRequest", "structRetractRequest.html", null ],
+    [ "PosSensor::SensorVals", "structPosSensor_1_1SensorVals.html", null ],
     [ "SFloat", "classSFloat.html", null ],
     [ "SFloatTestParams", "structSFloatTestParams.html", null ],
     [ "HmiService::SimpleTask", "structHmiService_1_1SimpleTask.html", null ],

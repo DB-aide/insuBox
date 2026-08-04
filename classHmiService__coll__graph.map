@@ -1,20 +1,20 @@
 <map id="HmiService" name="HmiService">
-<area shape="rect" id="Node000001" title=" " alt="" coords="304,179,401,204"/>
-<area shape="rect" id="Node000005" href="$structHmiService_1_1SimpleTask.html" title=" " alt="" coords="695,204,874,229"/>
-<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="415,183,457,181,550,176,643,181,694,190,741,201,740,206,693,195,642,186,550,181,457,186,415,188"/>
-<area shape="rect" id="Node000006" href="$structHmiService_1_1PassKeyDisplayTask.html" title=" " alt="" coords="667,273,903,299"/>
-<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="381,210,417,233,458,253,510,267,564,277,667,285,666,291,563,282,509,272,456,258,414,238,378,214"/>
-<area shape="rect" id="Node000007" href="$structHmiService_1_1BolusProgressUpdateTask.html" title=" " alt="" coords="686,43,883,83"/>
-<area shape="poly" id="edge9_Node000007_Node000001" title=" " alt="" coords="369,166,406,125,430,106,456,90,498,79,556,71,686,62,686,68,556,76,499,84,458,95,433,110,409,129,373,169"/>
-<area shape="rect" id="Node000002" href="$classIHmiCallback.html" title=" " alt="" coords="15,129,125,155"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,150,248,169,304,179,303,184,248,174,138,155"/>
-<area shape="rect" id="Node000003" href="$classEventDispatcher.html" title="Class responsible for dispatching events to registered listeners." alt="" coords="5,179,135,204"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,189,304,189,304,194,149,194"/>
-<area shape="rect" id="Node000004" href="$classIHmiDevice.html" title=" " alt="" coords="21,228,119,253"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,228,248,209,303,198,304,203,248,214,133,233"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="682,233,573,239,514,237,457,230,417,220,381,207,383,202,418,215,458,225,515,231,573,233,682,228"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="742,306,683,325,610,339,571,342,532,340,493,334,456,320,421,296,392,264,371,231,357,205,362,203,376,229,396,261,424,292,459,316,494,329,532,335,571,337,610,334,682,320,740,301"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="709,90,643,110,458,162,395,181,393,176,457,157,642,105,707,85"/>
-<area shape="rect" id="Node000008" href="$structBolusProgressUpdate.html" title=" " alt="" coords="272,5,433,31"/>
-<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="448,25,643,45,686,49,685,55,642,50,447,30"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,226,403,253"/>
+<area shape="rect" id="Node000005" href="$structHmiService_1_1SimpleTask.html" title=" " alt="" coords="700,227,879,255"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="417,223,459,217,553,211,648,217,710,226,704,227,648,222,553,217,459,222,419,228"/>
+<area shape="rect" id="Node000006" href="$structHmiService_1_1PassKeyDisplayTask.html" title=" " alt="" coords="672,360,907,388"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="378,263,415,299,436,315,460,329,512,348,566,361,621,369,674,375,669,376,620,374,565,366,510,353,458,333,434,320,411,303,376,268"/>
+<area shape="rect" id="Node000007" href="$structHmiService_1_1BolusProgressUpdateTask.html" title=" " alt="" coords="692,56,888,100"/>
+<area shape="poly" id="edge9_Node000007_Node000001" title=" " alt="" coords="367,210,402,155,427,127,458,105,491,97,549,90,693,82,688,84,549,96,492,102,460,110,431,131,406,158,371,213"/>
+<area shape="rect" id="Node000002" href="$classIHmiCallback.html" title=" " alt="" coords="15,174,124,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,190,251,206,313,224,308,226,250,211,139,195"/>
+<area shape="rect" id="Node000003" href="$classEventDispatcher.html" title="Class responsible for dispatching events to registered listeners." alt="" coords="5,226,134,253"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,237,308,237,304,241,150,242"/>
+<area shape="rect" id="Node000004" href="$classIHmiDevice.html" title=" " alt="" coords="21,282,118,309"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,286,250,267,312,253,307,255,251,272,134,291"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="745,260,698,280,649,292,595,300,553,304,511,302,458,292,414,276,378,256,379,251,416,271,460,286,512,296,553,299,595,295,647,286,696,274,740,262"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="742,393,681,414,608,427,569,429,531,426,493,418,458,403,437,388,418,370,389,329,369,287,359,256,361,251,374,285,394,326,422,367,440,384,460,398,495,413,531,421,569,423,607,422,679,409,737,394"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="717,107,649,135,596,150,553,159,512,168,460,186,417,206,380,227,377,223,414,202,458,181,510,163,552,153,594,145,647,130,722,105"/>
+<area shape="rect" id="Node000008" href="$structBolusProgressUpdate.html" title=" " alt="" coords="275,8,435,36"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="450,27,648,49,694,58,689,59,648,54,450,32"/>
 </map>

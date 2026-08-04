@@ -1,0 +1,5 @@
+<map id="IHmiDevice::onUserBtPairingRequest" name="IHmiDevice::onUserBtPairingRequest">
+<area shape="rect" id="Node000001" title="Handle the pairing request from the BLE stack." alt="" coords="230,5,439,50"/>
+<area shape="rect" id="Node000002" href="$classMockHmiDevice.html#a581b42a27768d4e76d0349ffa1240b81" title=" " alt="" coords="5,5,182,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,182,30,182,25,217,27"/>
+</map>

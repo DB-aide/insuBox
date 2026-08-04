@@ -1,0 +1,7 @@
+<map id="Motor::Motor" name="Motor::Motor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="198,29,303,57"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="278,14,269,10,250,8,233,10,223,15,221,20,225,30,220,28,215,20,219,11,231,5,250,3,271,5,283,14"/>
+<area shape="rect" id="Node000002" href="$classMotor.html#a1498acfa0c1d788f3d2a3ca45f5e4257" title=" " alt="" coords="5,29,150,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,52,150,55,150,49,185,52"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="165,32,200,35,194,35,165,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PosSensor::postProcessLUT" name="PosSensor::postProcessLUT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,14,434,42"/>
+<area shape="rect" id="Node000002" href="$classPosSensor.html#a7ec6acdbc2fab8e55fef78e6e1181b56" title="Reads the top and bottom sensors and stores the position in the lookup table (LUT)." alt="" coords="5,5,187,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,28,187,30,187,25,222,27"/>
+</map>

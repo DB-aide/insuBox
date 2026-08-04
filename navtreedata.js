@@ -47,7 +47,9 @@ var NAVTREE =
           ] ],
           [ "Set Algorithm Mode", "BleInterfaceSpec.html#idas-set-algorithm-mode", [
             [ "Op Code", "BleInterfaceSpec.html#idas-set-algorithm-mode-op-code", null ],
-            [ "Operand", "BleInterfaceSpec.html#idas-set-algorithm-mode-operand", null ]
+            [ "Operand", "BleInterfaceSpec.html#idas-set-algorithm-mode-operand", [
+              [ "Algorithm Mode", "BleInterfaceSpec.html#idas-algorithm-mode", null ]
+            ] ]
           ] ],
           [ "Get AID State", "BleInterfaceSpec.html#idas-get-aid-state", [
             [ "Op Code", "BleInterfaceSpec.html#idas-get-aid-state-op-code", null ],
@@ -125,9 +127,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "BLEComm_8cpp.html",
-"Tunes_8h.html#adfbdbc36baee852981842d731e0ccf6daf4912cae458ad19ebb8828d9883e7bf7",
-"dir_a8f641299cfea9f7461c2df1141b7786.html"
+"Tunes_8h.html#adfbdbc36baee852981842d731e0ccf6dadf1dc1809f6f8eab8dd0992cbd8ceffc",
+"dir_92931473ab1fc1b3b1000144aa955fc4.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

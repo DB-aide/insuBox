@@ -1,5 +1,5 @@
 <map id="Motor" name="Motor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,93,95,119"/>
-<area shape="rect" id="Node000002" href="$classIMotorCallback.html" title=" " alt="" coords="5,5,125,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,45,68,93,63,93,63,45"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,106,95,134"/>
+<area shape="rect" id="Node000002" href="$classIMotorCallback.html" title=" " alt="" coords="5,5,125,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,47,68,106,62,105,63,50"/>
 </map>

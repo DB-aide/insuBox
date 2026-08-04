@@ -1,19 +1,23 @@
 <map id="lib/pump/insubox/motor/Motor.cpp" name="lib/pump/insubox/motor/Motor.cpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,519,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="265,101,327,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,48,327,95,324,91,399,43"/>
-<area shape="rect" id="Node000003" href="$Motor_8h.html" title=" " alt="" coords="352,93,509,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="433,46,433,79,428,79,428,46"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="533,101,688,126"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="471,43,576,93,573,97,469,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,181,131,207"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="353,134,135,181,134,176,351,129"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="155,181,317,207"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="385,136,278,179,276,174,383,131"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="341,181,520,207"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="433,134,433,167,428,167,428,134"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="544,181,667,207"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="474,131,568,173,566,178,471,136"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="691,181,765,207"/>
-<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="503,131,678,177,677,182,501,136"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="494,5,670,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="352,106,415,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,50,427,100,424,102,422,97,425,96,530,51"/>
+<area shape="rect" id="Node000003" href="$Motor_8h.html" title=" " alt="" coords="439,98,595,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="569,49,543,88,539,83,564,52"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="620,106,678,134"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="599,48,633,95,628,93,597,53"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="702,106,855,134"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="630,48,739,100,734,100,629,53"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,191,130,218"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,140,427,145,145,193,144,188,426,140,436,141"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="154,191,317,218"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="445,143,296,189,294,183,440,144"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="341,191,519,218"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="497,142,456,182,454,177,492,144"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="543,191,664,218"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="541,141,581,181,576,179,539,146"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="689,191,878,218"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="588,141,729,186,724,186,587,146"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="902,191,977,218"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="596,138,608,140,746,163,890,190,884,190,745,168,607,145,595,143"/>
 </map>

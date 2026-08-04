@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['operationalstate_0',['operationalstate',['../structInsulinDeliveryDevice_1_1IddStatusChar.html#aea83786b54bb083925398d73fca1d9b6',1,'InsulinDeliveryDevice::IddStatusChar::operationalState'],['../structPumpStatus.html#a90c165dc4497c9e4f6323ae79c3c0e69',1,'PumpStatus::operationalState']]]
+  ['newstate_0',['newState',['../structTestEvent2.html#ad599c196f2eed3fc82f6b236c4411df0',1,'TestEvent2']]],
+  ['numlisteners_1',['numListeners',['../structSubscribeParams.html#a8c2c3f45574dc4d3b4312a7ab79abeb4',1,'SubscribeParams']]]
 ];

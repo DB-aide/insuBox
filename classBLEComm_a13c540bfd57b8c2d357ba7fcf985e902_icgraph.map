@@ -1,5 +1,5 @@
 <map id="BLEComm::onGattChanged" name="BLEComm::onGattChanged">
-<area shape="rect" id="Node000001" title=" " alt="" coords="212,5,411,31"/>
-<area shape="rect" id="Node000002" href="$classBLEComm.html#a081b8aa552974b5892c079f31d5c67a2" title=" " alt="" coords="5,5,164,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,164,21,164,15,198,15"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,5,409,33"/>
+<area shape="rect" id="Node000002" href="$classBLEComm.html#a081b8aa552974b5892c079f31d5c67a2" title=" " alt="" coords="5,5,164,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,19,164,22,164,17,199,19"/>
 </map>

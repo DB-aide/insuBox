@@ -1,19 +1,19 @@
 <map id="tests/lib/events/tst_EventDispatcher.cpp" name="tests/lib/events/tst_EventDispatcher.cpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,269,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="51,93,155,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,48,127,86,124,82,166,44"/>
-<area shape="rect" id="Node000003" href="$EventDispatcher_8h.html" title=" " alt="" coords="179,93,367,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,44,252,82,249,86,207,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="5,167,61,192"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,121,75,168,74,163,234,116"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="85,167,152,192"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="250,121,157,163,155,158,247,116"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="177,167,263,192"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="267,121,239,157,235,154,262,117"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="288,167,365,192"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="284,117,312,154,308,157,280,121"/>
-<area shape="rect" id="Node000008" title=" " alt="" coords="390,167,514,192"/>
-<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="303,116,411,159,409,164,301,121"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="538,167,601,192"/>
-<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="325,116,525,164,524,169,323,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,5,264,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,98,151,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,49,126,89,122,85,160,52"/>
+<area shape="rect" id="Node000003" href="$EventDispatcher_8h.html" title=" " alt="" coords="175,98,363,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,48,247,87,242,87,205,53"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,174,61,201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,129,76,175,75,170,225,124"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="84,174,150,201"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,126,159,169,156,164,239,127"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="174,174,260,201"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="262,125,237,163,233,159,257,127"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="284,174,360,201"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="280,124,307,162,301,160,277,129"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="385,174,508,201"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="301,124,403,167,398,168,300,129"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="532,174,595,201"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="326,124,520,172,515,174,326,129"/>
 </map>

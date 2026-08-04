@@ -1,20 +1,20 @@
 <map id="include/hmi/IHmiDevice.h" name="include/hmi/IHmiDevice.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="246,5,437,31"/>
-<area shape="rect" id="Node000002" href="$HmiService_8h.html" title=" " alt="" coords="247,86,436,111"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,44,344,86,339,86,339,44"/>
-<area shape="rect" id="Node000004" href="$VirtualHmiDevice_8h.html" title=" " alt="" coords="5,167,235,192"/>
-<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="307,39,236,81,178,128,134,168,130,164,174,124,233,76,304,35"/>
-<area shape="rect" id="Node000008" href="$MockHmiDevice_8h.html" title=" " alt="" coords="493,79,643,119"/>
-<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="388,33,514,76,513,81,386,38"/>
-<area shape="rect" id="Node000003" href="$app_2src_2main_8cpp.html" title=" " alt="" coords="259,167,392,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,125,330,167,325,166,334,124"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,118,153,169,151,164,295,113"/>
-<area shape="rect" id="Node000005" href="$HmiService_8cpp.html" title=" " alt="" coords="296,240,469,265"/>
-<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="370,118,391,139,406,166,410,186,407,207,393,241,388,238,402,206,405,186,402,168,386,143,366,122"/>
-<area shape="rect" id="Node000007" href="$tst__HmiService_8cpp.html" title=" " alt="" coords="467,167,701,192"/>
-<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="391,113,549,164,548,169,389,118"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="176,193,341,237,339,242,175,198"/>
-<area shape="rect" id="Node000006" href="$VirtualHmiDevice_8cpp.html" title=" " alt="" coords="13,240,227,265"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="123,206,123,240,117,240,117,206"/>
-<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="577,132,584,166,579,167,572,133"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="245,5,434,33"/>
+<area shape="rect" id="Node000002" href="$HmiService_8h.html" title=" " alt="" coords="245,90,434,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,47,342,90,337,88,338,51"/>
+<area shape="rect" id="Node000004" href="$VirtualHmiDevice_8h.html" title=" " alt="" coords="5,174,234,201"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="297,42,234,83,176,132,133,175,129,172,173,129,231,79,301,39"/>
+<area shape="rect" id="Node000008" href="$MockHmiDevice_8h.html" title=" " alt="" coords="490,81,640,126"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="390,36,508,80,502,81,390,41"/>
+<area shape="rect" id="Node000003" href="$app_2src_2main_8cpp.html" title=" " alt="" coords="257,174,390,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,131,328,175,324,172,332,134"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,125,156,176,154,171,292,121"/>
+<area shape="rect" id="Node000005" href="$HmiService_8cpp.html" title=" " alt="" coords="295,249,467,277"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="369,125,390,147,405,173,408,194,405,215,390,251,387,247,400,214,403,194,400,175,385,150,368,130"/>
+<area shape="rect" id="Node000007" href="$tst__HmiService_8cpp.html" title=" " alt="" coords="465,174,697,201"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="393,120,545,173,540,174,392,125"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,203,336,247,332,250,180,209"/>
+<area shape="rect" id="Node000006" href="$VirtualHmiDevice_8cpp.html" title=" " alt="" coords="13,249,226,277"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="121,215,122,250,117,248,118,219"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="574,139,581,174,576,172,570,143"/>
 </map>

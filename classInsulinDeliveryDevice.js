@@ -1,8 +1,8 @@
 var classInsulinDeliveryDevice =
 [
-    [ "IddAnnunciationChar", "structInsulinDeliveryDevice_1_1IddAnnunciationChar.html", "structInsulinDeliveryDevice_1_1IddAnnunciationChar" ],
     [ "IddStatusChangedChar", "structInsulinDeliveryDevice_1_1IddStatusChangedChar.html", "structInsulinDeliveryDevice_1_1IddStatusChangedChar" ],
     [ "IddStatusChar", "structInsulinDeliveryDevice_1_1IddStatusChar.html", "structInsulinDeliveryDevice_1_1IddStatusChar" ],
+    [ "IddAnnunciationChar", "structInsulinDeliveryDevice_1_1IddAnnunciationChar.html", "structInsulinDeliveryDevice_1_1IddAnnunciationChar" ],
     [ "InsulinDeliveryDevice", "classInsulinDeliveryDevice.html#addce94248adfe57ee15259f3e89acf96", null ],
     [ "~InsulinDeliveryDevice", "classInsulinDeliveryDevice.html#a276926b97f9f40cdef22c5019cd60caa", null ],
     [ "init", "classInsulinDeliveryDevice.html#a2d40d7c887012605a98ed6baee2824c9", null ],

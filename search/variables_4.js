@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['hmituneerror_0',['hmiTuneError',['../Tunes_8h.html#ad0802a39686bbbfbc5264ff5b43b3eee',1,'Tunes.h']]],
-  ['hmitunekeyclick_1',['hmiTuneKeyClick',['../Tunes_8h.html#a669dbd15cc96c24e383c740a2c7663ab',1,'Tunes.h']]],
-  ['hmitunekeyrequest_2',['hmiTuneKeyRequest',['../Tunes_8h.html#aa3e4b504cf65345c00322a24934cb4e4',1,'Tunes.h']]],
-  ['hmitunesuccess_3',['hmiTuneSuccess',['../Tunes_8h.html#ac7b21bf1f197123c9c7f34a3b3e77585',1,'Tunes.h']]],
-  ['hmitunewarning_4',['hmiTuneWarning',['../Tunes_8h.html#a9fc8e3e4f50ace36cd3a372eb7385732',1,'Tunes.h']]],
-  ['hmitunewelcome_5',['hmiTuneWelcome',['../Tunes_8h.html#a1f8b4587fd632dea555bc26a83d878a3',1,'Tunes.h']]]
+  ['flags_0',['flags',['../structInsulinDeliveryDevice_1_1IddStatusChangedChar.html#a83ada3ee24329235a25eb98f7eb0d0c4',1,'InsulinDeliveryDevice::IddStatusChangedChar::flags'],['../structInsulinDeliveryDevice_1_1IddStatusChar.html#a3597ea007470b353948e042e95a40221',1,'InsulinDeliveryDevice::IddStatusChar::flags'],['../structInsulinDeliveryDevice_1_1IddAnnunciationChar.html#abba0af5867e6b9bc60878cb197ddcbce',1,'InsulinDeliveryDevice::IddAnnunciationChar::flags']]],
+  ['floatval_1',['floatVal',['../structSFloatTestParams.html#a51da59dc88b153d073344eb101da31b1',1,'SFloatTestParams']]],
+  ['frequency_2',['frequency',['../structTune.html#ae2e291981f0f8f2e59956944b86a2b49',1,'Tune']]]
 ];

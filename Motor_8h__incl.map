@@ -1,13 +1,15 @@
 <map id="include/pump/insubox/motor/Motor.h" name="include/pump/insubox/motor/Motor.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="348,5,513,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,131,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,47,135,93,134,88,347,42"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="155,93,317,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,48,278,91,276,86,383,43"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="341,93,520,119"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,46,433,79,428,79,428,46"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="544,93,667,119"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="474,43,568,85,566,90,471,48"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="691,93,765,119"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="503,43,678,89,677,94,501,48"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,5,599,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,130,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,47,146,99,145,94,434,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="154,98,317,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="445,50,296,96,294,91,440,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="341,98,519,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="497,49,456,90,454,85,492,51"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="543,98,664,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="541,48,581,88,576,86,539,53"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="689,98,878,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="588,48,729,93,724,93,587,53"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="902,98,977,126"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="600,40,731,63,890,98,885,98,730,69,599,45"/>
 </map>

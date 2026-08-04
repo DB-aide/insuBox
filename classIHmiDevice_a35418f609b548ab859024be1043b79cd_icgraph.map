@@ -1,0 +1,5 @@
+<map id="IHmiDevice::onBtBluetoothStateChanged" name="IHmiDevice::onBtBluetoothStateChanged">
+<area shape="rect" id="Node000001" title="Handle changes in Bluetooth state." alt="" coords="230,5,428,50"/>
+<area shape="rect" id="Node000002" href="$classMockHmiDevice.html#a217343a100840665d282dced0bddd830" title=" " alt="" coords="5,5,182,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,182,30,182,25,217,27"/>
+</map>

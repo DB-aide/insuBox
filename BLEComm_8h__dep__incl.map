@@ -1,27 +1,27 @@
 <map id="include/ble/BLEComm.h" name="include/ble/BLEComm.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="88,5,264,31"/>
-<area shape="rect" id="Node000002" href="$app_2src_2main_8cpp.html" title=" " alt="" coords="33,240,167,265"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,44,137,93,113,153,105,200,103,240,97,239,99,200,108,151,132,90,159,41"/>
-<area shape="rect" id="Node000003" href="$HmiService_8h.html" title=" " alt="" coords="123,159,312,185"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,43,217,158,212,160,180,45"/>
-<area shape="rect" id="Node000005" href="$HmiService_8cpp.html" title=" " alt="" coords="117,313,291,339"/>
-<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="149,41,96,82,68,109,42,139,22,170,10,202,10,233,24,264,42,283,65,298,91,309,118,316,116,321,89,314,63,303,39,287,19,267,5,235,5,201,17,168,38,136,64,106,93,78,146,36"/>
-<area shape="rect" id="Node000008" href="$IHmiDevice_8h.html" title=" " alt="" coords="214,79,405,104"/>
-<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="211,35,289,76,286,81,208,39"/>
-<area shape="rect" id="Node000010" href="$BLEComm_8cpp.html" title=" " alt="" coords="429,79,589,104"/>
-<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="243,31,456,76,455,81,242,36"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,195,119,242,116,238,187,190"/>
-<area shape="rect" id="Node000004" href="$VirtualHmiDevice_8h.html" title=" " alt="" coords="500,240,729,265"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="289,185,557,237,556,243,288,190"/>
-<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="218,198,208,313,202,313,213,198"/>
-<area shape="rect" id="Node000007" href="$tst__HmiService_8cpp.html" title=" " alt="" coords="242,240,475,265"/>
-<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="251,189,339,237,336,242,249,194"/>
-<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="536,270,271,316,270,311,535,265"/>
-<area shape="rect" id="Node000006" href="$VirtualHmiDevice_8cpp.html" title=" " alt="" coords="508,313,721,339"/>
-<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="617,279,617,313,612,313,612,279"/>
-<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="287,115,233,161,229,157,284,111"/>
-<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="381,105,441,123,501,150,534,171,563,195,606,238,603,242,560,199,531,175,499,154,439,128,379,110"/>
-<area shape="rect" id="Node000009" href="$MockHmiDevice_8h.html" title=" " alt="" coords="337,152,487,192"/>
-<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="337,110,389,150,386,154,334,114"/>
-<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="394,205,369,241,364,238,389,202"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,264,33"/>
+<area shape="rect" id="Node000002" href="$app_2src_2main_8cpp.html" title=" " alt="" coords="34,249,167,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,49,137,97,114,157,105,208,103,250,98,248,100,207,109,156,132,95,162,44"/>
+<area shape="rect" id="Node000003" href="$HmiService_8h.html" title=" " alt="" coords="124,165,312,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,46,217,165,212,165,183,50"/>
+<area shape="rect" id="Node000005" href="$HmiService_8cpp.html" title=" " alt="" coords="118,325,291,353"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="144,45,94,89,66,117,41,147,21,180,10,212,10,244,24,276,43,295,66,310,92,321,121,330,115,331,90,326,64,315,40,299,20,278,5,246,5,211,16,177,36,144,62,113,90,85,147,40"/>
+<area shape="rect" id="Node000008" href="$IHmiDevice_8h.html" title=" " alt="" coords="214,81,403,109"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="213,38,288,80,283,81,214,44"/>
+<area shape="rect" id="Node000010" href="$BLEComm_8cpp.html" title=" " alt="" coords="428,81,587,109"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="251,34,450,79,445,82,251,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="185,204,121,251,118,247,189,200"/>
+<area shape="rect" id="Node000004" href="$VirtualHmiDevice_8h.html" title=" " alt="" coords="498,249,727,277"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="296,194,552,247,547,250,296,199"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="218,207,208,325,203,323,213,210"/>
+<area shape="rect" id="Node000007" href="$tst__HmiService_8cpp.html" title=" " alt="" coords="242,249,474,277"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="254,198,338,248,333,249,253,204"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="527,281,279,327,278,322,522,280"/>
+<area shape="rect" id="Node000006" href="$VirtualHmiDevice_8cpp.html" title=" " alt="" coords="506,325,719,353"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="614,291,615,326,611,323,611,295"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="285,117,234,167,230,163,281,121"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="387,110,444,129,499,154,532,177,561,202,604,250,599,248,557,206,528,181,497,159,442,134,387,116"/>
+<area shape="rect" id="Node000009" href="$MockHmiDevice_8h.html" title=" " alt="" coords="337,157,486,201"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="337,116,387,156,381,156,337,121"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="391,213,368,251,365,247,387,216"/>
 </map>

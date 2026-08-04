@@ -1,7 +1,9 @@
 <map id="SFloat::value" name="SFloat::value">
-<area shape="rect" id="Node000001" title=" " alt="" coords="165,31,272,56"/>
-<area shape="rect" id="Node000002" href="$classSFloat.html#a3eb22c6be41b45e4c8ce6340f4c06759" title=" " alt="" coords="5,5,117,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,35,117,30,118,24,152,30"/>
-<area shape="rect" id="Node000003" href="$tst__sfloat_8cpp.html#a4112ebf5379e962e27651acd5d0b279d" title=" " alt="" coords="27,55,96,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,56,96,65,96,60,151,51"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,57,271,85"/>
+<area shape="rect" id="Node000002" href="$classSFloat.html#ae74b1ccd93c41fc1a44ddf2d8d2ab969" title=" " alt="" coords="5,5,117,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,105,36,105,31,162,51"/>
+<area shape="rect" id="Node000003" href="$classSFloat.html#a3eb22c6be41b45e4c8ce6340f4c06759" title=" " alt="" coords="5,57,117,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,72,118,74,117,69,151,70"/>
+<area shape="rect" id="Node000004" href="$tst__sfloat_8cpp.html#a4112ebf5379e962e27651acd5d0b279d" title=" " alt="" coords="27,109,95,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,90,97,114,95,109,157,91"/>
 </map>

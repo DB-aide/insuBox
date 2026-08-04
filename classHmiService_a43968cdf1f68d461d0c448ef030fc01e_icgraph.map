@@ -1,0 +1,6 @@
+<map id="HmiService::getHmiDevice" name="HmiService::getHmiDevice">
+<area shape="rect" id="Node000001" title="Get the hmi internal hmi device object of the selected type in Kconfig." alt="" coords="233,29,430,57"/>
+<area shape="rect" id="Node000002" href="$classHmiService.html#a41b09bd49184bcf39ee65e95c7641d11" title=" " alt="" coords="5,29,185,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,43,185,46,185,41,220,43"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="134,14,121,10,95,8,70,10,57,15,53,20,60,29,54,29,48,20,53,11,69,5,95,3,123,5,139,14"/>
+</map>

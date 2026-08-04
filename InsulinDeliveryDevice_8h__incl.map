@@ -1,22 +1,22 @@
 <map id="include/control/bt_ids/InsulinDeliveryDevice.h" name="include/control/bt_ids/InsulinDeliveryDevice.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="305,5,511,45"/>
-<area shape="rect" id="Node000002" href="$PumpServiceMessages_8h.html" title=" " alt="" coords="183,93,409,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,48,325,87,322,83,379,43"/>
-<area shape="rect" id="Node000010" title=" " alt="" coords="433,93,607,119"/>
-<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="437,43,494,83,491,87,434,48"/>
-<area shape="rect" id="Node000003" href="$IdsEnums_8h.html" title=" " alt="" coords="5,167,152,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,121,128,165,126,160,260,116"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="176,167,235,192"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="283,121,233,160,229,156,280,117"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="259,167,333,192"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="299,119,299,153,293,153,293,119"/>
-<area shape="rect" id="Node000008" href="$sfloat_8h.html" title=" " alt="" coords="358,167,461,192"/>
-<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="316,116,381,157,378,162,313,121"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="485,167,603,192"/>
-<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="337,116,491,160,490,165,335,121"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="272,240,339,265"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,189,260,234,258,239,114,195"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="14,240,143,265"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="81,192,81,226,76,226,76,192"/>
-<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="394,194,335,234,332,230,391,190"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="302,5,508,50"/>
+<area shape="rect" id="Node000002" href="$PumpServiceMessages_8h.html" title=" " alt="" coords="182,98,406,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,49,325,91,322,86,373,52"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="430,98,603,126"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="435,48,489,89,484,89,434,53"/>
+<area shape="rect" id="Node000003" href="$IdsEnums_8h.html" title=" " alt="" coords="5,174,151,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,128,132,171,130,166,257,124"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="174,174,232,201"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="280,125,233,166,230,161,276,128"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="257,174,331,201"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="296,124,296,159,292,157,292,128"/>
+<area shape="rect" id="Node000008" href="$sfloat_8h.html" title=" " alt="" coords="355,174,457,201"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="315,124,376,165,371,165,313,129"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="481,174,598,201"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="338,124,484,168,479,170,338,129"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="269,249,335,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,199,257,245,253,248,118,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="14,249,142,277"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="80,200,81,234,75,233,76,204"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="390,201,334,243,331,238,385,203"/>
 </map>

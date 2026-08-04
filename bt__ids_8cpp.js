@@ -19,9 +19,9 @@ var bt__ids_8cpp =
     [ "BT_UUID_IDS_IDD_STATUS_READER_CONTROL_POINT_VAL", "bt__ids_8cpp.html#ae0ea25860fa7f416e3ed76e282d56545", null ],
     [ "BT_UUID_IDS_IDD_STATUS_VAL", "bt__ids_8cpp.html#a380a983406e810305babd3d875cadfdf", null ],
     [ "LOG_LEVEL", "bt__ids_8cpp.html#a0b87e0d3bf5853bcbb0b66a7c48fdc05", null ],
-    [ "BT_GATT_SERVICE_DEFINE", "bt__ids_8cpp.html#a20f5f7a91b0c8af3b6982544b5d47371", null ],
-    [ "getService", "bt__ids_8cpp.html#a4e4d2264be16fc11c5bc0ab2c7f7c95d", null ],
-    [ "init", "bt__ids_8cpp.html#af75c395ef2cf030d3e1226b5cb26b690", null ],
+    [ "bt_ids::BT_GATT_SERVICE_DEFINE", "namespacebt__ids.html#a20f5f7a91b0c8af3b6982544b5d47371", null ],
+    [ "bt_ids::getService", "namespacebt__ids.html#a4e4d2264be16fc11c5bc0ab2c7f7c95d", null ],
+    [ "bt_ids::init", "namespacebt__ids.html#af75c395ef2cf030d3e1226b5cb26b690", null ],
     [ "LOG_MODULE_REGISTER", "bt__ids_8cpp.html#a06b0b1ab5f2c935eba5ffec0b380869f", null ],
-    [ "mInsulinDeliveryDevice", "bt__ids_8cpp.html#a8a103a2b8d763c1b40c81f0ab73d16ea", null ]
+    [ "bt_ids::mInsulinDeliveryDevice", "namespacebt__ids.html#a8a103a2b8d763c1b40c81f0ab73d16ea", null ]
 ];

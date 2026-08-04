@@ -1,13 +1,17 @@
 <map id="BLEComm::findStoredConnection" name="BLEComm::findStoredConnection">
-<area shape="rect" id="Node000001" title=" " alt="" coords="467,55,703,80"/>
-<area shape="rect" id="Node000002" href="$classBLEComm.html#a3a9e10f7847de5d0d66ccb52d94e22eb" title=" " alt="" coords="230,5,401,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,55,385,33,386,28,502,50"/>
-<area shape="rect" id="Node000004" href="$classBLEComm.html#a13c540bfd57b8c2d357ba7fcf985e902" title=" " alt="" coords="216,55,415,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,70,415,70,415,65,453,65"/>
-<area shape="rect" id="Node000006" href="$classBLEComm.html#a538ead40d87b3978fd509895a1b37383" title=" " alt="" coords="212,104,419,129"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="502,85,386,107,385,101,501,80"/>
-<area shape="rect" id="Node000003" href="$classBLEComm.html#a591a026d61b1c3d9fb83e4d9e4da5de2" title=" " alt="" coords="9,5,161,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,21,161,21,161,15,216,15"/>
-<area shape="rect" id="Node000005" href="$classBLEComm.html#a081b8aa552974b5892c079f31d5c67a2" title=" " alt="" coords="5,55,164,80"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,70,164,70,164,65,203,65"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,109,700,137"/>
+<area shape="rect" id="Node000002" href="$classBLEComm.html#a351a87dde4318148076d29c7786af120" title=" " alt="" coords="233,5,396,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,102,482,76,416,48,378,36,378,31,418,43,484,71,544,102"/>
+<area shape="rect" id="Node000003" href="$classBLEComm.html#a6c6d0a936666548ec44440cc561f3854" title=" " alt="" coords="223,57,406,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="490,106,390,88,390,83,495,105"/>
+<area shape="rect" id="Node000004" href="$classBLEComm.html#a3a9e10f7847de5d0d66ccb52d94e22eb" title=" " alt="" coords="230,109,399,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,124,400,126,399,121,452,123"/>
+<area shape="rect" id="Node000006" href="$classBLEComm.html#a13c540bfd57b8c2d357ba7fcf985e902" title=" " alt="" coords="216,161,413,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="490,141,390,163,389,158,495,140"/>
+<area shape="rect" id="Node000008" href="$classBLEComm.html#a538ead40d87b3978fd509895a1b37383" title=" " alt="" coords="212,213,417,241"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="544,144,484,175,418,203,378,215,377,210,416,198,482,170,539,145"/>
+<area shape="rect" id="Node000005" href="$classBLEComm.html#a591a026d61b1c3d9fb83e4d9e4da5de2" title=" " alt="" coords="9,109,160,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,124,161,126,160,121,217,122"/>
+<area shape="rect" id="Node000007" href="$classBLEComm.html#a081b8aa552974b5892c079f31d5c67a2" title=" " alt="" coords="5,161,164,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="197,176,165,178,164,173,203,175"/>
 </map>
